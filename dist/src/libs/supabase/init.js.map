@@ -1,1 +1,0 @@
-{"version":3,"file":"init.js","sourceRoot":"","sources":["../../../../src/libs/supabase/init.ts"],"names":[],"mappings":";;AAAA,uDAAqD;AAErD,MAAM,oBAAoB,GAAG,OAAO,CAAC,GAAG,CAAC,oBAA8B,CAAC;AACxE,MAAM,gBAAgB,GAAG,OAAO,CAAC,GAAG,CAAC,iBAA2B,CAAC;AAEjE,MAAM,QAAQ,GAAG,IAAA,0BAAY,EAAC,oBAAoB,EAAE,gBAAgB,CAAC,CAAC;AAEtE,MAAM,CAAC,OAAO,GAAG,QAAQ,CAAC"}
