@@ -17,6 +17,10 @@ app.get("/", (req: Request, res: Response) => {
   SendResponse(res, 200, true, null, "Hi");
 });
 
+app.get("/ping", (req: Request, res: Response) => {
+  SendResponse(res, 200, true, null, "pong!");
+});
+
 app.use("/api/users", require("./routes/user.route"));
 app.use("/api/renungan", require("./routes/renungan.route"));
 
